@@ -1,4 +1,4 @@
-**逐层、系统地解读您上传的 `StirlingTypeAlpha_ex01.txt` 文件中的 Modelica 代码**。    
+**逐层、系统地解读 `StirlingTypeAlpha_ex01.txt` 文件中的 Modelica 代码**。    
 1. **引用原代码时，参数一字不改**。
 2. **详细列出并分析每一项建模工作**。
 3. **紧密结合斯特林循环的物理原理**。
